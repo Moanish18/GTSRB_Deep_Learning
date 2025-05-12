@@ -17,14 +17,12 @@ This project is Part 1 of a Deep Learning in Operations Research (DLOR) coursewo
 - [Dataset](#dataset)
 - [Objectives](#objectives)
 - [Features & Analyses](#features--analyses)
-- [Installation](#installation)
 - [Notebook Walkthrough](#notebook-walkthrough)
 - [Sample Outputs](#sample-outputs)
 - [Learnings & Challenges](#learnings--challenges)
 - [Next Steps](#next-steps)
 - [Model Analysis & Improvement](#-model-analysis--improvement-roadmap)
 - [Author](#author)
-- [License](#license)
 
 ---
 
